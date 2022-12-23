@@ -1,9 +1,9 @@
 # vr-wheelchair-soccer
 This project was built using Unreal Engine to support an Oculus VR experience.
-![Unreal Engine Logo](http://mookan.gagogarcia.com/sites/default/files/unreal_engine_logo.png)
-![Oculus VR Logo](https://logos-world.net/wp-content/uploads/2021/02/Oculus-Logo.png)
+![Unreal Engine Logo](<img src="http://mookan.gagogarcia.com/sites/default/files/unreal_engine_logo.png" width="270px" height"85px">)
+![Oculus VR Logo](<img src="https://logos-world.net/wp-content/uploads/2021/02/Oculus-Logo.png" width="270px" height="85px">)
 
-###Here are some of the basics of the game:
+##Here are some of the basics of the game:
 - The player can hook up their Oculus VR Headset to their computer and start the game. 
 - The player can choose from a menu to play through a tutorial or play a singleplayer match against an AI
 - The player can navigate in their wheelchair with different gestures to perform different actions like braking, turning, moving forwards/backwards
