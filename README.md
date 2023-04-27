@@ -1,6 +1,6 @@
 # vr-wheelchair-soccer
+<img src="https://github.com/ajatucker/vr-wheelchair-soccer/blob/main/VR_Wheelchair_Soccer_Poster.png?raw=true">
 This project was built using Unreal Engine to support an Oculus VR experience. <br>
-<img src="https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2015/05/unreal-engine-4-logo-large.png" alt="Unreal Logo" width="190px" height="120px"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Oculus-Logo.png" alt="Oculus Logo" width="270px" height="130px">
 
 ## Here are some of the basics of the game:
 - The player can hook up their Oculus VR Headset to their computer and start the game. 
